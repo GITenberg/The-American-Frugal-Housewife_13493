@@ -1,0 +1,33 @@
+_repo: The-American-Frugal-Housewife_13493
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Child, Lydia Maria
+    aliases:
+    - Francis, Lydia Maria
+    - Child, Lydia Maria Francis
+    - Child, L. Maria (Lydia Maria)
+    birthdate: 1802
+    deathdate: 1880
+    gutenberg_agent_id: '2732'
+    url: http://www.gutenberg.org/2009/agents/2732
+    wikipedia: http://en.wikipedia.org/wiki/Lydia_Child
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2004-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking'
+- !lcsh 'Home economics'
+- !lcc 'TX'
+title: The American Frugal Housewife
+url: http://www.gutenberg.org/ebooks/13493
